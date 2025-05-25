@@ -1,7 +1,37 @@
 ## Hi there 👋 I'm Lucas
-Computer Science Student @ ETTI UPB since 2023
+Computer Science Student @ ETTI UPB since 2023  
 
 ![lookasdev's Stats](https://github-readme-stats.vercel.app/api?username=lookasdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 CS Student @ **Faculty of Electronics, Telecommunications and Information Technology – UPB**
+- ⚙️ Competitive and fast learner — I solved **all problems** from the **3 main programming courses** in the first 2 years of university
+- 🧠 I chose CS because I believe it's the **driving force behind the future** of every industry
+- 💪 Interested in **AI**, **Machine Learning**, **Game Development**, and **Web Apps**
+
+---
+
+## 🌱 Currently Interested In
+
+- 🤖 AI and Machine Learning (experimenting with models and data)
+- 🎮 Game Development (mechanics, polish, and publishing)
+
+---
+
+## 🧩 Featured Projects
+
+### 🧠 [Human Benchmark Clone](https://github.com/lookasdev/human-benchmark)
+> A recreation of the popular Human Benchmark tests in a web environment  
+Built using JavaScript and styled for smooth user interaction and performance tracking
+
+### 👾 [2D Arcade Games](https://github.com/lookasdev/arcade-games)
+> Classic-style arcade games written from scratch  
+Focus on game loop, physics, and user interaction, ideal for HTML5 canvas practice and logic design
+
+---
 
 ## 🛠 Technologies I Use
 
@@ -21,17 +51,22 @@ Computer Science Student @ ETTI UPB since 2023
   <img src="https://img.shields.io/badge/Vivado-F78C40?style=for-the-badge&logo=xilinx&logoColor=white" />
 </p>
 
-<!--
-**lookasdev/lookasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎯 Fun Facts & Hobbies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://img.shields.io/badge/-AutoHotkey-334455?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Chess-000000?style=for-the-badge&logo=lichess&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Video%20Editing-FF0000?style=for-the-badge&logo=adobepremierepro&logoColor=white" /> https://www.youtube.com/@lookasedits
+  <img src="https://img.shields.io/badge/-Volleyball-FAB131?style=for-the-badge&logo=volleyball&logoColor=white" />
+</p>
+
+> 🧠 “You have power over your mind – not outside events. Realize this, and you will find strength.” – *Marcus Aurelius*
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-negrea)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.negrea@gmail.com)
