@@ -52,7 +52,7 @@ Focus on game loop, physics, and user interaction, ideal for HTML5 canvas practi
 
 ---
 
-## 🎯 Fun Facts & Hobbies
+## 🎯 Hobbies
 
 <p align="left">
   <img src="https://img.shields.io/badge/-AutoHotkey-334455?style=for-the-badge&logo=windows&logoColor=white" />
