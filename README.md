@@ -1,8 +1,6 @@
 ## Hi there 👋 I'm Lucas
 Computer Science Student @ ETTI UPB since 2023  
 
-![lookasdev's Stats](https://github-readme-stats.vercel.app/api?username=lookasdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ---
 
 ## 👨‍💻 About Me
@@ -32,6 +30,7 @@ Computer Science Student @ ETTI UPB since 2023
   <img src="https://img.shields.io/badge/Vivado-F78C40?style=for-the-badge&logo=xilinx&logoColor=white" />
 </p>
 
+![lookasdev's Stats](https://github-readme-stats.vercel.app/api?username=lookasdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ---
 
 ## 🌱 Currently Interested In
