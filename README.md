@@ -58,7 +58,9 @@ Focus on game loop, physics, and user interaction, ideal for HTML5 canvas practi
 <p align="left">
   <img src="https://img.shields.io/badge/-AutoHotkey-334455?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/-Chess-000000?style=for-the-badge&logo=lichess&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Video%20Editing-FF0000?style=for-the-badge&logo=adobepremierepro&logoColor=white" /> https://www.youtube.com/@lookasedits
+  <a href="https://www.youtube.com/@lookasedits" target="_blank">
+    <img src="https://img.shields.io/badge/-Video%20Editing-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/-Volleyball-FAB131?style=for-the-badge&logo=volleyball&logoColor=white" />
 </p>
 
