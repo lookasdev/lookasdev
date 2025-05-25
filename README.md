@@ -14,25 +14,6 @@ Computer Science Student @ ETTI UPB since 2023
 
 ---
 
-## 🌱 Currently Interested In
-
-- 🤖 AI and Machine Learning (experimenting with models and data)
-- 🎮 Game Development (mechanics, polish, and publishing)
-
----
-
-## 🧩 Featured Projects
-
-### 🧠 [Human Benchmark Clone](https://github.com/lookasdev/human-benchmark)
-> A recreation of the popular Human Benchmark tests in a web environment  
-Built using JavaScript and styled for smooth user interaction and performance tracking
-
-### 👾 [2D Arcade Games](https://github.com/lookasdev/arcade-games)
-> Classic-style arcade games written from scratch  
-Focus on game loop, physics, and user interaction, ideal for HTML5 canvas practice and logic design
-
----
-
 ## 🛠 Technologies I Use
 
 <p align="left">
@@ -53,6 +34,25 @@ Focus on game loop, physics, and user interaction, ideal for HTML5 canvas practi
 
 ---
 
+## 🌱 Currently Interested In
+
+- 🤖 AI and Machine Learning (experimenting with models and data)
+- 🎮 Game Development (mechanics, polish, and publishing)
+
+---
+
+## 🧩 Featured Projects
+
+### 🧠 [Human Benchmark Clone](https://github.com/lookasdev/human-benchmark)
+> A recreation of the popular Human Benchmark tests in a web environment  
+Built using JavaScript and styled for smooth user interaction and performance tracking
+
+### 👾 [2D Arcade Games](https://github.com/lookasdev/arcade-games)
+> Classic-style arcade games written from scratch  
+Focus on game loop, physics, and user interaction, ideal for HTML5 canvas practice and logic design
+
+---
+
 ## 🎯 Fun Facts & Hobbies
 
 <p align="left">
@@ -62,8 +62,9 @@ Focus on game loop, physics, and user interaction, ideal for HTML5 canvas practi
   <img src="https://img.shields.io/badge/-Volleyball-FAB131?style=for-the-badge&logo=volleyball&logoColor=white" />
 </p>
 
-> 🎥 Channel Link: *https://www.youtube.com/@lookasedits*
 > 🧠 “You have power over your mind – not outside events. Realize this, and you will find strength.” – *Marcus Aurelius*
+
+> 🎥 Channel Link: [https://www.youtube.com/@lookasedits](https://www.youtube.com/@lookasedits)
 
 ---
 
