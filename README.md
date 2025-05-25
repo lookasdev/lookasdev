@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm Lucas
+Computer Science Student @ ETTI UPB since 2023
+
+![lookasdev's Stats](https://github-readme-stats.vercel.app/api?username=lookasdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <!--
 **lookasdev/lookasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
