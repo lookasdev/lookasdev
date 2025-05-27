@@ -27,7 +27,6 @@ Computer Science Student @ ETTI UPB since 2023
   <img src="https://img.shields.io/badge/SystemVerilog-FF5B00?style=for-the-badge&logo=verilog&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=gnuassembly&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vivado-F78C40?style=for-the-badge&logo=xilinx&logoColor=white" />
 </p>
 
 ![lookasdev's Stats](https://github-readme-stats.vercel.app/api?username=lookasdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
