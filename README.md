@@ -29,7 +29,8 @@ Computer Science Student @ ETTI UPB since 2023
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
-![lookasdev's Stats](https://github-readme-stats.vercel.app/api?username=lookasdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![lookasdev's Stats](https://github-readme-stats.vercel.app/api?username=lookasdev&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+
 ---
 
 ## 🌱 Currently Interested In
