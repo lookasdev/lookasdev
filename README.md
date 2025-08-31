@@ -34,9 +34,3 @@
 
 > 🎥 Channel Link: [https://www.youtube.com/@lookasedits](https://www.youtube.com/@lookasedits)
 
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-negrea)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.negrea@gmail.com)
