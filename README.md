@@ -1,14 +1,5 @@
 ## Hi there 👋 I'm Lucas
-Computer Science Student @ ETTI UPB since 2023  
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 CS Student @ **Faculty of Electronics, Telecommunications and Information Technology – UPB**
-- ⚙️ Competitive and fast learner — I solved **all problems** from the **3 main programming courses** in the first 2 years of university
-- 🧠 I chose CS because I believe it's the **driving force behind the future** of every industry
-- 💪 Interested in **AI**, **Machine Learning**, **Game Development**, and **Web Dev**
+🎓 Computer Engineering Student @ **Faculty of Electronics, Telecommunications and Information Technology – UPB** since 2023
 
 ---
 
@@ -39,7 +30,6 @@ Computer Science Student @ ETTI UPB since 2023
   <img src="https://img.shields.io/badge/-AutoHotkey-334455?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/-Chess-000000?style=for-the-badge&logo=lichess&logoColor=white" />
   <img src="https://img.shields.io/badge/-Video%20Editing-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Volleyball-FAB131?style=for-the-badge&logo=volleyball&logoColor=white" />
 </p>
 
 > 🎥 Channel Link: [https://www.youtube.com/@lookasedits](https://www.youtube.com/@lookasedits)
