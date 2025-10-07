@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Lucas
+## Hi there 👋 I'm Lucas Negrea
 🎓 Computer Engineering Student @ **Faculty of Electronics, Telecommunications and Information Technology – UPB** since 2023
 
 ---
