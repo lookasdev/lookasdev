@@ -27,7 +27,7 @@
 ## 🎯 Hobbies
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-AutoHotkey-334455?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white" />
   <img src="https://img.shields.io/badge/-Chess-000000?style=for-the-badge&logo=lichess&logoColor=white" />
   <img src="https://img.shields.io/badge/-Video%20Editing-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </p>
