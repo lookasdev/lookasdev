@@ -17,6 +17,11 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+
 ![lookasdev's Stats](https://github-readme-stats.vercel.app/api?username=lookasdev&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 ---
 
