@@ -5,7 +5,7 @@
 
 ## 🛠 Technologies I Use
 
-<p align="left" style="margin: 0px 0;">
+<p align="left" style="margin:0;">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
-<p align="left" style="margin: 0px 0;">
+<p align="left" style="margin:0;">
   <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
