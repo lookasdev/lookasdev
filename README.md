@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Lucas Negrea
-🎓 Computer Engineering Student @ **Faculty of Electronics, Telecommunications and Information Technology – UPB** since 2023
+🎓 Computer Engineering Student @ **UNSTPB ETTI** since 2023
 
 ---
 
@@ -20,9 +20,6 @@
   <img src="https://img.shields.io/badge/Assembly-705438?style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-008B92?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
-
-![lookasdev's Stats](https://github-readme-stats.vercel.app/api?username=lookasdev&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
----
 
 ## 🎯 Hobbies
 
