@@ -1,9 +1,8 @@
-## Hi there 👋 I'm Lucas Negrea
-🎓 Computer Engineering Student @ **UNSTPB ETTI** since 2023
+## Computer Engineering Student @ UNSTPB ETTI (2023-2027)
 
 ---
 
-## 🛠 Technologies I Use
+## Technologies I Use
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-4B9CD3?style=for-the-badge&logo=c&logoColor=white" />
@@ -21,7 +20,7 @@
   <img src="https://img.shields.io/badge/Arduino-008B92?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
-## 🎯 Hobbies
+## Hobbies
 
 <p align="left">
   <img src="https://img.shields.io/badge/-AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white" />
@@ -29,5 +28,5 @@
   <img src="https://img.shields.io/badge/-Video%20Editing-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </p>
 
-> 🎥 Channel Link: [https://www.youtube.com/@lookasedits](https://www.youtube.com/@lookasedits)
+> YT Editing Channel: [link](https://www.youtube.com/@lookasedits)
 
