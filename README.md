@@ -28,5 +28,3 @@
   <img src="https://img.shields.io/badge/-Video%20Editing-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </p>
 
-> YT Editing Channel: [link](https://www.youtube.com/@lookasedits)
-
